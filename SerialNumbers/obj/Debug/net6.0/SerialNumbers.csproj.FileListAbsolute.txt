@@ -1,0 +1,15 @@
+C:\Users\xnaga\source\repos\SerialNumbers\SerialNumbers\bin\Debug\net6.0\SerialNumbers.exe
+C:\Users\xnaga\source\repos\SerialNumbers\SerialNumbers\bin\Debug\net6.0\SerialNumbers.deps.json
+C:\Users\xnaga\source\repos\SerialNumbers\SerialNumbers\bin\Debug\net6.0\SerialNumbers.runtimeconfig.json
+C:\Users\xnaga\source\repos\SerialNumbers\SerialNumbers\bin\Debug\net6.0\SerialNumbers.dll
+C:\Users\xnaga\source\repos\SerialNumbers\SerialNumbers\bin\Debug\net6.0\SerialNumbers.pdb
+C:\Users\xnaga\source\repos\SerialNumbers\SerialNumbers\obj\Debug\net6.0\SerialNumbers.csproj.AssemblyReference.cache
+C:\Users\xnaga\source\repos\SerialNumbers\SerialNumbers\obj\Debug\net6.0\SerialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xnaga\source\repos\SerialNumbers\SerialNumbers\obj\Debug\net6.0\SerialNumbers.AssemblyInfoInputs.cache
+C:\Users\xnaga\source\repos\SerialNumbers\SerialNumbers\obj\Debug\net6.0\SerialNumbers.AssemblyInfo.cs
+C:\Users\xnaga\source\repos\SerialNumbers\SerialNumbers\obj\Debug\net6.0\SerialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\xnaga\source\repos\SerialNumbers\SerialNumbers\obj\Debug\net6.0\SerialNumbers.dll
+C:\Users\xnaga\source\repos\SerialNumbers\SerialNumbers\obj\Debug\net6.0\refint\SerialNumbers.dll
+C:\Users\xnaga\source\repos\SerialNumbers\SerialNumbers\obj\Debug\net6.0\SerialNumbers.pdb
+C:\Users\xnaga\source\repos\SerialNumbers\SerialNumbers\obj\Debug\net6.0\SerialNumbers.genruntimeconfig.cache
+C:\Users\xnaga\source\repos\SerialNumbers\SerialNumbers\obj\Debug\net6.0\ref\SerialNumbers.dll
